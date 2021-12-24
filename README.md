@@ -7,8 +7,8 @@ Feel free to explore and browse!
 ## 🔭 Currently Working On:
 
 <p align="center">
-	<a href="https://github.com/WilliamNwoke/Sudoki">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIlliamNwoke&repo=Java_Collections&theme=material-palenight" />
+	<a href="https://github.com/WilliamNwoke/Collection_Projects">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIlliamNwoke&repo=Collection_Projects&theme=material-palenight" />
 	</a>
 </p>
 
