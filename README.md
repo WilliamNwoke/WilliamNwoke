@@ -10,7 +10,6 @@ Feel free to explore and browse!
 	<a href="https://github.com/WilliamNwoke/Collection_Projects">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIlliamNwoke&repo=Collection_Projects&theme=material-palenight" />
 	</a>
-</p><p align="center">
 	<a href="https://github.com/WilliamNwoke/Croom">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIlliamNwoke&repo=Croom&theme=material-palenight" />
 	</a>
