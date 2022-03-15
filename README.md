@@ -21,7 +21,7 @@ Feel free to explore and browse!
 
 <p align="center">
 	<a href="https://github.com/WilliamNwoke/WilliamNwoke">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNwoke&hide=tex&theme=material-palenight&langs_count=4" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNwoke&hide=tex&theme=material-palenight&langs_count=3" />
 	</a>
 	<a href="https://github.com/WilliamNwoke/WilliamNwoke">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamNwoke&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Uchenna's GitHub Stats" />
