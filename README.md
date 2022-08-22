@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**WilliamNwoke/WilliamNwoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Uche and I'm a Computer Science master student at Seattle University.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+  - Resume Building mobile app
+- 🌱 I’m currently learning about:
+  - iOS mobile development
+  - Distributed Systems
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:
+  - I love art!
+  - I love jazz 🎺 and slow songs 🎧
+  - I was a product designer, but I love programming more 💪🏾
+ 
+### 📚 My Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&)](#)
+
+### Connect with me!
+<div>
+  <div>
+    <a href="https://www.linkedin.com/in/uwn/">
+      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
+</div>
+<div>
+
+### GitHub Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WIlliamNwoke&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WIlliamNwoke)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIlliamNwoke&layout=compact&langs_count=10&exclude_repo=WIlliamNwoke&hide=JavaScript,SCSS,CSS,HTML,Batchfile,Shell,Makefile,Lex,PHP,ASP,Mathematica,TSQL,PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
+
