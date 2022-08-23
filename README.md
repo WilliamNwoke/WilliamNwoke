@@ -15,7 +15,7 @@ My name is Uche and I'm a Computer Science master student at Seattle University.
  
 ### 📚 My Portfolio
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&)](https://github.com/WilliamNwoke/github-portfolio/blob/main/README.md)
 
 ### Connect with me!
 <div>
