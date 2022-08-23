@@ -23,9 +23,6 @@ My name is Uche and I'm a Computer Science master student at Seattle University.
     <a href="https://www.linkedin.com/in/uwn/">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:email@example.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
   </div>
 </div>
 <div>
