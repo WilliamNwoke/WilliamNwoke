@@ -3,10 +3,10 @@
 My name is Uche and I'm a Computer Science master student at Seattle University.
 
 - 🔭 I’m currently working on:
-  - Resume Building mobile app
+  - GDPR Compliance app
 - 🌱 I’m currently learning about:
   - iOS mobile development
-  - Distributed Systems
+  - Machine Learning and LLM's
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
   - I love art!
