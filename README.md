@@ -3,9 +3,8 @@
 My name is Uche and I'm a Computer Science master student at Seattle University.
 
 - 🔭 I’m currently working on:
-  - GDPR Compliance app
+  - Fashion Recommendation System
 - 🌱 I’m currently learning about:
-  - iOS mobile development
   - Machine Learning and LLM's
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
